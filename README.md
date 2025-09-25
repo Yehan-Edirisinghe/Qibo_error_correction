@@ -39,6 +39,7 @@ This thesis aims to:
 
 ### Prerequisites
 
+Install all prerequisites with the requirements file:
 ```bash
 pip install -r requirements.txt
 ```
@@ -60,6 +61,6 @@ pip install -e .
 
 ---
 
-**Contact:** [y.edirisinghemudi@campus.unimib.it]
+**Contact:** y.edirisinghemudi@campus.unimib.it
 
 **Repository:** https://github.com/Yehan-Edirisinghe/Qibo_error_correction
